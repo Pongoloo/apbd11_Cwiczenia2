@@ -13,3 +13,14 @@ static float average(int[] tab)
     result /= tab.Length;
     return result;
 }
+
+int[] arr = { 1, 2, 3, 4, 5 };
+float averaged = average(arr);
+
+Console.WriteLine(averaged + " heheHHAHAHHIHIHHOHOHHOHOHEHEHHE");
+
+
+static void gamer(String smieszki)
+{
+    Console.WriteLine(smieszki.ToUpper());
+}
